@@ -6,7 +6,8 @@
     "antd-mobile": "^1.4.0",
     "echarts": "^3.6.2",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-router": "^2.8.1"
   },
   "devDependencies": {
     "autoprefixer": "7.1.0",
